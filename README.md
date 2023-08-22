@@ -63,13 +63,6 @@ To confirm the installation, open the Start menu, search for cmd to open a comma
 `Default output format [None]: json`
 
 ## Project Setup
-
-1. Clone this repository to your local machine:
-git clone https://github.com/mahmuda-bjitgroup/terraform-aws.git
-
-2. Open Visual Studio Code (VSCode):
-   - Open the terraform-aws folder in VSCode or any preferred IDE.
-3. Follow # Terraform-tutorial
 1. Clone this repository to your local machine:
 git clone https://github.com/mahmuda-bjitgroup/terraform-aws.git
 
