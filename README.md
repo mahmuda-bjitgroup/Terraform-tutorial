@@ -69,3 +69,37 @@ git clone https://github.com/mahmuda-bjitgroup/Terraform-tutorial.git
 2. Open Visual Studio Code (VSCode):
    - Open the terraform-aws folder in VSCode or any preferred IDE.
 3. Follow Terraform-documentation.pdf for this repository
+
+## File short description
+1. **ami-datasource.tf**<br><br>
+This file contains code related to datasources which uses filter to fetch latest Amazon Linux image.
+2. **apache-install.sh**<br><br>
+This contains the code for installing apache server and it is used in while creating the ec2 instance, using user_data.
+3. **app.tfvars**<br><br>
+An example of .tfvars which is used for declaring ec2 instance type
+4. **ec2.tf**<br><br>
+Code for creating ec2 instance
+5. **elastic_ip.tf**<br><br>
+Code for creating elastic ip address.
+6. **input_var.tf**<br><br>
+Code for inserting several variables
+7. **output.tf**<br><br>
+This file contains output block example
+8. **rds-db.tf**<br><br>
+Code for creating RDS(Amazon Relational Database Service)
+9. **s3_bucket.tf**<br><br>
+Contains code for creating S3 bucket
+10. **secrets.tfvars**<br><br>
+Example for secret variable
+11. **terraform.tfvars**<br><br>
+Example for .tfvars
+12. **terraform_block.tf**<br><br>
+Contains terraform and provider information
+13. **v3out.plan**<br><br>
+This file is for .plan example
+14. **vpc.tf**<br><br>
+This file contains: vpc, subnet, internet gateway, route table and security group
+15. **web.auto.tfvars**<br><br>
+Example of .auto.tfvars
+16. **web.tfvars**<br><br>
+Example for .tfvars
