@@ -1,7 +1,7 @@
 # Terraform-tutorial
 
 ## Topics covered
-1. Infrastructure-as-Code-IaC-Basics
+1. Infrastructure as Code IaC Basics
 2. Terraform Fundamental Block
    -  Terraform Block
    -  Provider Block
