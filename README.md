@@ -64,7 +64,7 @@ To confirm the installation, open the Start menu, search for cmd to open a comma
 
 ## Project Setup
 1. Clone this repository to your local machine:
-git clone https://github.com/mahmuda-bjitgroup/terraform-aws.git
+git clone https://github.com/mahmuda-bjitgroup/Terraform-tutorial.git
 
 2. Open Visual Studio Code (VSCode):
    - Open the terraform-aws folder in VSCode or any preferred IDE.
